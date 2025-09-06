@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/KMMAIloffE=",
+  "success": true,
+  "projectFilePath": "/home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/MyFirstCalc.csproj",
+  "expectedPackageFiles": [
+    "/home/magamed/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

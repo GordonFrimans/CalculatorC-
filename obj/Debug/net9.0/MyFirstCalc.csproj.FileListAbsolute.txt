@@ -1,0 +1,14 @@
+/home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/bin/Debug/net9.0/MyFirstCalc
+/home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/bin/Debug/net9.0/MyFirstCalc.deps.json
+/home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/bin/Debug/net9.0/MyFirstCalc.runtimeconfig.json
+/home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/bin/Debug/net9.0/MyFirstCalc.dll
+/home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/bin/Debug/net9.0/MyFirstCalc.pdb
+/home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/obj/Debug/net9.0/MyFirstCalc.GeneratedMSBuildEditorConfig.editorconfig
+/home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/obj/Debug/net9.0/MyFirstCalc.AssemblyInfoInputs.cache
+/home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/obj/Debug/net9.0/MyFirstCalc.AssemblyInfo.cs
+/home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/obj/Debug/net9.0/MyFirstCalc.csproj.CoreCompileInputs.cache
+/home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/obj/Debug/net9.0/MyFirstCalc.dll
+/home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/obj/Debug/net9.0/refint/MyFirstCalc.dll
+/home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/obj/Debug/net9.0/MyFirstCalc.pdb
+/home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/obj/Debug/net9.0/MyFirstCalc.genruntimeconfig.cache
+/home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/obj/Debug/net9.0/ref/MyFirstCalc.dll
