@@ -12,3 +12,4 @@
 /home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/obj/Debug/net9.0/MyFirstCalc.pdb
 /home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/obj/Debug/net9.0/MyFirstCalc.genruntimeconfig.cache
 /home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/obj/Debug/net9.0/ref/MyFirstCalc.dll
+/home/magamed/Рабочий стол/Project/goVno/MyFirstCalc/obj/Debug/net9.0/MyFirstCalc.sourcelink.json
